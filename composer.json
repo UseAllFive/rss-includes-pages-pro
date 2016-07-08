@@ -1,8 +1,8 @@
 {
-"name": "useallfive/rss-includes-pages-pro",
-"type": "wordpress-plugin",
-"description": "RSS Includes Pages Pro",
-"keywords": [],
-"homepage": "https://github.com/UseAllFive/rss-includes-pages-pro",
-"license": "proprietary"
+	"name": "useallfive/rss-includes-pages-pro",
+	"type": "wordpress-plugin",
+	"description": "RSS Includes Pages Pro",
+	"keywords":[],
+	"homepage":"https://github.com/UseAllFive/rss-includes-pages-pro",
+	"license":"proprietary"
 }
